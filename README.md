@@ -11,3 +11,6 @@
     - pip freeze > requirements.txt: Comando para criar o arquivo com as dependências;
     - pip install -r requirements.txt: Comando para instalar as dependências contidas no arquivo "requirements.txt";
     - pip install pre-commit: Comando para instalar a ferramenta de "pre-commit";
+    - pip install SQLAlchemy: Comando para instalar o SQLAlchemy;
+    - pre-commit install: Comando para instalar o pre-commit;
+        
