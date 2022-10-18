@@ -1,5 +1,12 @@
 # Commands used in Docker
-    - docker ps: Comando para listar os containers que estão rodando;
+    DOCKER HUB: Repositório onde ficam armazenados as imagens.
+
+    - docker ps: Comando para listar os containers rodando;
+    - docker ps -a: Comando para listar os containers rodando;
+    - docker images: Comando para exibir as imagens que estão rodando;
+    - docker rm + ID do container: Comando para deletar um container com o ID informado;
+    - docker rmi: Comando para deletar uma imagem;
+    - docker build --tag + nome da imagem . : Comando para criar uma imagem;
 
 # Commands used in Python/ Framework
     - python -m venv venv: Comando para instalar ambiente virtual;
