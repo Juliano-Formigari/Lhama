@@ -6,7 +6,9 @@
     - docker images: Comando para exibir as imagens que estão rodando;
     - docker rm + ID do container: Comando para deletar um container com o ID informado;
     - docker rmi: Comando para deletar uma imagem;
+    - docker run + nome_do_arquivo: Comando para dar o start;
     - docker build --tag + nome da imagem . : Comando para criar uma imagem;
+    - docker inspect + id_container: Comando para visualizar as informações detalhadas do container;
 
 # Commands used in Python/ Framework
     - python -m venv venv: Comando para instalar ambiente virtual;
